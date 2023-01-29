@@ -1,0 +1,48 @@
+baseURL: ""
+languageCode: en-us
+title: Bianca Tuliao
+theme: PaperMod
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  homeInfoParams:
+    Title: "Welcome /ᐠ｡ꞈ｡ᐟ\\"
+    Content: "
+              My name is Bianca and I'm a software engineer based in Philadelphia. Most recently, I was a software engineer at QVC and built applications for the supply chain domain.
+              I graduated from Temple University with a bachelors in [Information Science and Technology](https://bulletin.temple.edu/undergraduate/science-technology/computer-information-science/information-science-technology-bs/#text).
+             <br /> <br />I grew up in the 'burbs of Chicago and am a big fan of Lou Malnati's for delicious deep dish pizza. When I'm not at my computer I'm most likely discovering new restaurants,
+             reading, or crocheting.
+            "
+  
+  socialIcons:
+    - name: github
+      url: "https://github.com/bltuliao"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/biancatuliao/"
+    - name: email
+      url: mailto:btuliaodev@gmail.com
+    - name: goodreads
+      url: "https://www.goodreads.com/user/show/115285117-bianca"
+
+menu:
+  main:
+    - identifier: About
+      name: About
+      url: 
+      weight: 10
+    - identifier: Career
+      name: Career
+      url: /career/
+      weight: 20
+    - identifier: Projects
+      name: Projects
+      url: /projects/
+      weight: 30
+    - identifier: Blog
+      name: Blog
+      url: /blog/
+      weight: 40
