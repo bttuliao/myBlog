@@ -1,7 +1,6 @@
 baseURL: "https://bltuliao.github.io/"
 languageCode: en-us
 title: Bianca Tuliao
-summary: Bianca Tuliao, Software Engineer based in Philadelphia
 theme: PaperMod
 
 markup:
@@ -10,10 +9,11 @@ markup:
       unsafe: true
 
 params:
+  description: Bianca Tuliao, Software Engineer based in Philadelphia
   assets:
     disableFingerprinting: true
   homeInfoParams:
-    Title: "Welcome /ᐠ｡ꞈ｡ᐟ\\"
+    Title: "Welcome /ᐠ｡_｡ᐟ\\"
     Content: "
               My name is Bianca and I'm a software engineer from Philadelphia. Most recently, I was a software engineer at QVC and built applications within the supply chain domain.
               I graduated from Temple University with a bachelors in [Information Science and Technology](https://bulletin.temple.edu/undergraduate/science-technology/computer-information-science/information-science-technology-bs/#text).

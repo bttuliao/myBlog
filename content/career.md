@@ -2,7 +2,7 @@
 title: Career
 layout: "career"
 url: "/career/"
-summary: career
+summary: A summary of Bianca's experience in the tech industry
 ---
  <div class="container">
     <div class="row">
@@ -36,7 +36,7 @@ summary: career
                         <h3 class="title">QVC</h3>
                         <p>Associate Software Engineer</p>
                         <p class="description">
-                            Developed applications for the global dropship platform which launched across QVC's European Markets such as Germany and Italy.
+                            Developed applications for the global dropship platform which launched across QVC's European markets such as Germany and Italy.
                             Transitioned services from using DB2 to SQL Server. Migrated services to Kubernetes.
                             <br /> Followed CI/CD practices for application deployments.
                             <br /><br />
