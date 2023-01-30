@@ -9,6 +9,8 @@ markup:
       unsafe: true
 
 params:
+  assets:
+    disableFingerprinting: true
   homeInfoParams:
     Title: "Welcome /ᐠ｡ꞈ｡ᐟ\\"
     Content: "
