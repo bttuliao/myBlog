@@ -14,7 +14,21 @@ summary: career
                         <h3 class="title">QVC</h3>
                         <p>Software Engineer</p>
                         <p class="description">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer males uada tellus lorem, et condimentum neque commodo Integer males uada tellus lorem, et condimentum neque commodo
+                            Worked within supply chain/transactional experience (order checkout, order history, etc.) areas. 
+                            <br />Created a batch job to process manifest numbers for new orders. Built applications to interface with 3rd-party logistics companies as a result of the closure of QVC's Rocky Mount distribution center. Resolved security vulnerabilities in applications, such as Log4j.
+                            <br />Migrated applications to be hosted on the Co-located data center.
+                            <br /><br />
+                            Tools of the trade:
+                            <div class="button_slide slide_down">Java</div>
+                            <div class="button_slide slide_down">Spring Boot</div>
+                            <div class="button_slide slide_down">SQL</div>
+                            <div class="button_slide slide_down">IBM MQ</div>
+                            <div class="button_slide slide_down">Jenkins</div>
+                            <div class="button_slide slide_down">Kubernetes</div>
+                            <div class="button_slide slide_down">Dynatrace</div>
+                            <div class="button_slide slide_down">Kibana</div>
+                            <div class="button_slide slide_down">Vault(HashiCorp)</div>
+                            <div class="button_slide slide_down">Consul(HashiCorp)</div>
                         </p>
                     </a>
                 </div>
@@ -24,7 +38,20 @@ summary: career
                         <h3 class="title">QVC</h3>
                         <p>Associate Software Engineer</p>
                         <p class="description">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer males uada tellus lorem, et condimentum neque commodo Integer males uada tellus lorem, et condimentum neque commodo
+                            Worked on microservices supporting the transportation and dropship capabilities within supply chain for QVC and HSN. Helped launch the global dropship platform across QVC's European Markets such as Germany and Italy.
+                            <br />Transitioned services from using DB2 to SQL Server. Migrated services to Kubernetes.
+                            <br /> Followed CI/CD practices for application deployments.
+                            <br /><br />
+                            Tools of the trade:
+                            <div class="button_slide slide_down">Java</div>
+                            <div class="button_slide slide_down">Spring Boot</div>
+                            <div class="button_slide slide_down">SQL</div>
+                            <div class="button_slide slide_down">IBM MQ</div>
+                            <div class="button_slide slide_down">Jenkins</div>
+                            <div class="button_slide slide_down">Kubernetes</div>
+                            <div class="button_slide slide_down">Dynatrace</div>
+                            <div class="button_slide slide_down">Kibana</div>
+                            <div class="button_slide slide_down">Vault(HashiCorp)</div>
                         </p>
                     </a>
                 </div>
@@ -34,14 +61,14 @@ summary: career
                         <h3 class="title">Temple University</h3>
                         <p>CIS Department Lead Lab Consultant</p>
                         <p class="description">
-                            Helped students and faculty members with network, hardware, and software-related issues in the computer labs. Managed an inventory of loaned computer equipment.
-                            <br /> Also supervised and coordinated the schedules of over 20 student workers. Trained new student workers. Assisted them with troubleshooting issues in the labs.
+                            Helped students and faculty members with network, hardware, and software-related issues in the computer labs. Distributed and kept an inventory of loaned computer equipment to students and faculty.
+                            <br /> Also supervised and coordinated the schedules of over 20 student workers, trained new student workers, and assisted them with any issues in the labs.
                             <br /><br />
-                            Common responsibilities:
-                            <div class="button_slide slide_down">Printer Issues</div>
-                            <div class="button_slide slide_down">Projector Issues</div>
-                            <div class="button_slide slide_down">Software Installation</div>
+                            Main responsibilities:
                             <div class="button_slide slide_down">Computer Maintenance</div>
+                            <div class="button_slide slide_down">Software Installation</div>
+                            <div class="button_slide slide_down">Troubleshooting</div>
+                            <div class="button_slide slide_down">Organizing</div>
                         </p>
                     </a>
                 </div>
@@ -84,7 +111,7 @@ summary: career
                         <h3 class="title">QVC</h3>
                         <p>Database Platform Engineer Intern</p>
                         <p class="description">
-                            Worked on transitioning QVC's (live video shopping and ecommerce) data warehouse to Google Cloud Platform. Created and proposed network diagrams to lay out the components and translate the existing enterprise data management platform to GCP. Analyzed databases to compile application names and user IDs with connectivity.
+                            Worked on transitioning QVC's (live video shopping and ecommerce) data warehouse to Google Cloud Platform. Created and proposed network diagrams to lay out the components and translate the existing enterprise data management platform to GCP. <br /> Wrote scripts to analyze databases to view which applications and user IDs have access to connect.
                             <br /> <br />
                             A summer of learning:
                             <div class="button_slide slide_down">Google Cloud Shell</div>
