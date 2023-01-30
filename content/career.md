@@ -14,9 +14,7 @@ summary: career
                         <h3 class="title">QVC</h3>
                         <p>Software Engineer</p>
                         <p class="description">
-                            Worked within supply chain/transactional experience (order checkout, order history, etc.) areas. 
-                            <br />Created a batch job to process manifest numbers for new orders. Built applications to interface with 3rd-party logistics companies as a result of the closure of QVC's Rocky Mount distribution center. Resolved security vulnerabilities in applications, such as Log4j.
-                            <br />Migrated applications to be hosted on the Co-located data center.
+                            Built applications to interface with external logistics companies as a result of the closure of QVC's Rocky Mount distribution center. Updated services to remediate security vulnerabilities, such as Log4j. Created a Spring batch job to create and process manifest numbers for new orders. Migrated applications to be hosted on the Co-located data center.
                             <br /><br />
                             Tools of the trade:
                             <div class="button_slide slide_down">Java</div>
@@ -38,8 +36,8 @@ summary: career
                         <h3 class="title">QVC</h3>
                         <p>Associate Software Engineer</p>
                         <p class="description">
-                            Worked on microservices supporting the transportation and dropship capabilities within supply chain for QVC and HSN. Helped launch the global dropship platform across QVC's European Markets such as Germany and Italy.
-                            <br />Transitioned services from using DB2 to SQL Server. Migrated services to Kubernetes.
+                            Developed applications for the global dropship platform which launched across QVC's European Markets such as Germany and Italy.
+                            Transitioned services from using DB2 to SQL Server. Migrated services to Kubernetes.
                             <br /> Followed CI/CD practices for application deployments.
                             <br /><br />
                             Tools of the trade:
