@@ -9,7 +9,7 @@ markup:
       unsafe: true
 
 params:
-  description: Bianca Tuliao, Software Engineer based in Philadelphia
+  description: The blog of Bianca Tuliao, Software Engineer based in Philadelphia
   assets:
     disableFingerprinting: true
   homeInfoParams:
