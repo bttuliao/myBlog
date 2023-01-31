@@ -9,6 +9,7 @@ markup:
       unsafe: true
 
 params:
+  dateFormat: "January 2, 2006"
   description: The blog of Bianca Tuliao, Software Engineer based in Philadelphia
   assets:
     disableFingerprinting: true

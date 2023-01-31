@@ -2,5 +2,6 @@
 title: "Projects"
 layout: "projects"
 url: "/projects/"
-summary: A hub showcasing Bianca's projects
+summary: A corner of the internet showcasing Bianca's personal projects
 ---
+#Testing

@@ -2,7 +2,7 @@
 title: Career
 layout: "career"
 url: "/career/"
-summary: A summary of Bianca's experience in the tech industry
+summary: An overview of Bianca's work and volunteer experience in the tech industry
 ---
  <div class="container">
     <div class="row">
@@ -127,7 +127,7 @@ summary: A summary of Bianca's experience in the tech industry
                         <p>IT Planning Intern</p>
                         <p class="description">
                             Worked on configuration and documentation of ETL database solutions provided by SAP, such as SAP HANA Smart Data Integration, on SAP
-                            servers to be used as demos for clients
+                            servers to be used as demos for clients.
                             <br /> <br />
                             Completed training for:
                             <div class="button_slide slide_down">SAP HANA</div>
