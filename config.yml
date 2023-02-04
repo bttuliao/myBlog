@@ -8,7 +8,12 @@ markup:
     renderer:
       unsafe: true
 
+pluralizelisttitles: "false"
+
 params:
+  label:
+    icon: boop.png
+  ShowReadingTime: true
   dateFormat: "January 2, 2006"
   description: The blog of Bianca Tuliao, Software Engineer based in Philadelphia
   assets:
@@ -42,11 +47,9 @@ menu:
       name: Career
       url: /career/
       weight: 20
-    - identifier: Projects
-      name: Projects
-      url: /projects/
-      weight: 30
     - identifier: Blog
+      description: potato
+      summary: Reflections on tech etc this is a test
       name: Blog
       url: /blog/
-      weight: 40
+      weight: 30

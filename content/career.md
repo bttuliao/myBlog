@@ -3,6 +3,7 @@ title: Career
 layout: "career"
 url: "/career/"
 summary: An overview of Bianca's work and volunteer experience in the tech industry
+ShowReadingTime: false
 ---
  <div class="container">
     <div class="row">
