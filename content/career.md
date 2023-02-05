@@ -18,16 +18,16 @@ ShowReadingTime: false
                             Built applications to interface with external logistics companies as a result of the closure of QVC's Rocky Mount distribution center. Updated services to remediate security vulnerabilities, such as Log4j. Created a Spring batch job to create and process manifest numbers for new orders. Migrated applications to be hosted on the Co-located data center.
                             <br /><br />
                             Tools of the trade:
-                            <div class="button_slide4 slide_down4">Java</div>
-                            <div class="button_slide4 slide_down4">Spring Boot</div>
-                            <div class="button_slide4 slide_down4">SQL</div>
-                            <div class="button_slide4 slide_down4">IBM MQ</div>
-                            <div class="button_slide4 slide_down4">Jenkins</div>
-                            <div class="button_slide4 slide_down4">Kubernetes</div>
-                            <div class="button_slide4 slide_down4">Dynatrace</div>
-                            <div class="button_slide4 slide_down4">Kibana</div>
-                            <div class="button_slide4 slide_down4">Vault(HashiCorp)</div>
-                            <div class="button_slide4 slide_down4">Consul(HashiCorp)</div>
+                            <div class="button_slide slide_down">Java</div>
+                            <div class="button_slide slide_down">Spring Boot</div>
+                            <div class="button_slide slide_down">SQL</div>
+                            <div class="button_slide slide_down">IBM MQ</div>
+                            <div class="button_slide slide_down">Jenkins</div>
+                            <div class="button_slide slide_down">Kubernetes</div>
+                            <div class="button_slide slide_down">Dynatrace</div>
+                            <div class="button_slide slide_down">Kibana</div>
+                            <div class="button_slide slide_down">Vault(HashiCorp)</div>
+                            <div class="button_slide slide_down">Consul(HashiCorp)</div>
                         </p>
                     </a>
                 </div>
@@ -42,15 +42,15 @@ ShowReadingTime: false
                             <br /> Followed CI/CD practices for application deployments.
                             <br /><br />
                             Tools of the trade:
-                            <div class="button_slide2 slide_down2">Java</div>
-                            <div class="button_slide2 slide_down2">Spring Boot</div>
-                            <div class="button_slide2 slide_down2">SQL</div>
-                            <div class="button_slide2 slide_down2">IBM MQ</div>
-                            <div class="button_slide2 slide_down2">Jenkins</div>
-                            <div class="button_slide2 slide_down2">Kubernetes</div>
-                            <div class="button_slide2 slide_down2">Dynatrace</div>
-                            <div class="button_slide2 slide_down2">Kibana</div>
-                            <div class="button_slide2 slide_down2">Vault(HashiCorp)</div>
+                            <div class="button_slide slide_down">Java</div>
+                            <div class="button_slide slide_down">Spring Boot</div>
+                            <div class="button_slide slide_down">SQL</div>
+                            <div class="button_slide slide_down">IBM MQ</div>
+                            <div class="button_slide slide_down">Jenkins</div>
+                            <div class="button_slide slide_down">Kubernetes</div>
+                            <div class="button_slide slide_down">Dynatrace</div>
+                            <div class="button_slide slide_down">Kibana</div>
+                            <div class="button_slide slide_down">Vault(HashiCorp)</div>
                         </p>
                     </a>
                 </div>
@@ -64,10 +64,10 @@ ShowReadingTime: false
                             <br /> Also supervised and coordinated the schedules of over 20 student workers, trained new student workers, and assisted them with any issues in the labs.
                             <br /><br />
                             Main responsibilities:
-                            <div class="button_slide3 slide_down3">Computer Maintenance</div>
-                            <div class="button_slide3 slide_down3">Software Installation</div>
-                            <div class="button_slide3 slide_down3">Troubleshooting</div>
-                            <div class="button_slide3 slide_down3">Organizing</div>
+                            <div class="button_slide slide_down">Computer Maintenance</div>
+                            <div class="button_slide slide_down">Software Installation</div>
+                            <div class="button_slide slide_down">Troubleshooting</div>
+                            <div class="button_slide slide_down">Organizing</div>
                         </p>
                     </a>
                 </div>
@@ -80,10 +80,10 @@ ShowReadingTime: false
                             Volunteered to be a mentor and teach middle school age girls about different technology concepts (such as programming and cybersecurity) as well as other creative technologies and tools.
                             <br /> <br />
                             Some topics presented:
-                            <div class="button_slide2 slide_down2">Creating a Mobile App/Game with TouchDevelop</div>
-                            <div class="button_slide2 slide_down2">3D Design with Tinkercad</div>
-                            <div class="button_slide2 slide_down2">Intro to Encryption</div>
-                            <div class="button_slide2 slide_down2">Intro to Javascript</div>
+                            <div class="button_slide slide_down">Creating a Mobile App/Game with TouchDevelop</div>
+                            <div class="button_slide slide_down">3D Design with Tinkercad</div>
+                            <div class="button_slide slide_down">Intro to Encryption</div>
+                            <div class="button_slide slide_down">Intro to Javascript</div>
                         </p>
                     </a>
                 </div>
@@ -97,10 +97,10 @@ ShowReadingTime: false
                             assignments and provided constructive feedback, and helped students with any questions during labs and my office hours.
                             <br /> <br />
                             Tools of the trade:
-                            <div class="button_slide5 slide_down5">C#</div>
-                            <div class="button_slide5 slide_down5">.NET Framework</div>
-                            <div class="button_slide5 slide_down5">Visual Studio</div>
-                            <div class="button_slide5 slide_down5">Draw.io</div>
+                            <div class="button_slide slide_down">C#</div>
+                            <div class="button_slide slide_down">.NET Framework</div>
+                            <div class="button_slide slide_down">Visual Studio</div>
+                            <div class="button_slide slide_down">Draw.io</div>
                         </p>
                     </a>
                 </div>
@@ -131,10 +131,10 @@ ShowReadingTime: false
                             servers to be used as demos for clients.
                             <br /> <br />
                             Completed training for:
-                            <div class="button_slide3 slide_down3">SAP HANA</div>
-                            <div class="button_slide3 slide_down3">SAP S/4HANA</div>
-                            <div class="button_slide3 slide_down3">ABAP Workbench</div>
-                            <div class="button_slide3 slide_down3">SAPUI5 Framework</div>
+                            <div class="button_slide slide_down">SAP HANA</div>
+                            <div class="button_slide slide_down">SAP S/4HANA</div>
+                            <div class="button_slide slide_down">ABAP Workbench</div>
+                            <div class="button_slide slide_down">SAPUI5 Framework</div>
                         </p>
                     </a>
                 </div>
