@@ -24,4 +24,4 @@ In text, tone can get lost in translation. It's more challenging to tell the nua
 5. <b>Get to know other teams in the organization</b> <p class="indent"> There is so much to learn out there. I worked a lot with the devops team, networking team, and database team as an application developer. Eventually we would help each other in times of need. This is an awesome opportunity for you to learn outside of your day to day routine and even help others.</p>
 
 <h3>Embrace Change</h3>
-The reality is that change is constant no matter how much planning is done. Sometimes the business/client will request for a something different and requirements will change. Keep an open minded with your expectations and be adaptable with your actions. Your career is a marathon, not just a sprint.
+The reality is that change is constant no matter how much planning is done. Sometimes the business/client will request for a something different and requirements will change. Keep an open mind with your expectations and be adaptable with your actions. Your career is a marathon, not just a sprint.
