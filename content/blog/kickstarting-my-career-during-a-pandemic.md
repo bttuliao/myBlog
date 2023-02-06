@@ -23,4 +23,4 @@ In text, tone can get lost in translation. It's more challenging to tell the nua
 4. <b>Respond to the group chat</b> <p class="indent">If someone drops a question and you think you know the answer share what you know anyway. There will be times when your team is joking around, make sure to contribute! Doing this strengthens your sense of belonging in the team. </p>
 
 <h3>Embrace Change</h3>
-The reality is that change is constant no matter how much planning is done. Sometimes the business/client will realize they need something different and requirements will change. Keep an open mind with your expectations and be adaptable with your actions. Your career is a marathon, not just a sprint.
+The reality is that change is constant no matter how much planning is done. Sometimes the business/client will realize they need something different and requirements will change. Sometimes you'll realize there's a better way of doing things. Keep an open mind with your expectations and be adaptable with your actions. Your career is a marathon, not just a sprint.
