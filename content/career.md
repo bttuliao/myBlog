@@ -15,7 +15,7 @@ ShowReadingTime: false
                         <h3 class="title">QVC</h3>
                         <p>Software Engineer</p>
                         <p class="description">
-                            Built applications to interface with external logistics companies as a result of the closure of QVC's Rocky Mount distribution center. Updated services to remediate security vulnerabilities, such as Log4j. Created a Spring batch job to create and process manifest numbers for new orders. Migrated applications to be hosted on the Co-located data center.
+                            Built applications to interface with external logistics companies as a result of the closure of QVC's Rocky Mount distribution center. Updated services to remediate security vulnerabilities, such as Log4j. Created a Spring batch job to create and process manifest numbers for new orders. Migrated applications to Co-located data centers.
                             <br /><br />
                             Tools of the trade:
                             <div class="button_slide slide_down">Java</div>
@@ -37,7 +37,7 @@ ShowReadingTime: false
                         <h3 class="title">QVC</h3>
                         <p>Associate Software Engineer</p>
                         <p class="description">
-                            Developed applications for the global dropship platform which launched across QVC's European markets such as Germany and Italy.
+                            Developed applications for QVC's global dropship platform which launched across the company's European markets such as Germany and Italy.
                             Transitioned services from using DB2 to SQL Server. Migrated services to Kubernetes.
                             <br /> Followed CI/CD practices for application deployments.
                             <br /><br />
@@ -67,7 +67,7 @@ ShowReadingTime: false
                             <div class="button_slide slide_down">Computer Maintenance</div>
                             <div class="button_slide slide_down">Software Installation</div>
                             <div class="button_slide slide_down">Troubleshooting</div>
-                            <div class="button_slide slide_down">Organizing</div>
+                            <div class="button_slide slide_down">Leadership</div>
                         </p>
                     </a>
                 </div>
@@ -116,8 +116,7 @@ ShowReadingTime: false
                             <div class="button_slide slide_down">Google Cloud Shell</div>
                             <div class="button_slide slide_down">Bash</div>
                             <div class="button_slide slide_down">Visio</div>
-                            <div class="button_slide slide_down">Puppet</div>
-                            <div class="button_slide slide_down">Hadoop</div>
+                            <div class="button_slide slide_down">Puppet Automation</div>
                         </p>
                     </a>
                 </div>
