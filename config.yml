@@ -48,8 +48,6 @@ menu:
       url: /career/
       weight: 20
     - identifier: Blog
-      description: potato
-      summary: Reflections on tech etc this is a test
       name: Blog
       url: /blog/
       weight: 30
