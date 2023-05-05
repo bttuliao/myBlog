@@ -12,7 +12,7 @@ pluralizelisttitles: "false"
 
 params:
   label:
-    icon: icon.png
+    icon: icon2.png
   ShowReadingTime: true
   dateFormat: "January 2, 2006"
   description: The blog of Bianca Tuliao, Software Engineer based in Philadelphia
