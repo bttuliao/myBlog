@@ -22,8 +22,8 @@ params:
     Title: "Welcome 👋"
     Content: "
               My name is Bianca and I'm a software engineer from Philadelphia. Most recently, I was a software engineer at QVC and built applications within the supply chain domain.
-              I graduated from Temple University with a bachelors in [Information Science and Technology](https://bulletin.temple.edu/undergraduate/science-technology/computer-information-science/information-science-technology-bs/#text).
-             <br /> <br />I grew up in the 'burbs of Chicago and am a big fan of Lou Malnati's for deep dish pizza. I enjoy watching Esports, solving puzzles from [Puzzled Pint](http://puzzledpint.com/), and playing violin. When I'm not at my computer I'm most likely making coffee,
+              I graduated from Temple University with a Bachelor of Science in [Information Science and Technology](https://www.temple.edu/academics/degree-programs/information-science-and-technology-major-st-ist-bs).
+             <br /> <br />I grew up in the 'burbs of Chicago and am a big fan of Lou Malnati's for deep dish pizza. I enjoy watching Esports and solving puzzles from [Puzzled Pint](http://puzzledpint.com/). When I'm not at my computer I'm most likely making coffee,
              reading, or crocheting.
             "
   
@@ -36,6 +36,8 @@ params:
       url: mailto:btuliaodev@gmail.com
     - name: goodreads
       url: "https://www.goodreads.com/user/show/115285117-bianca"
+    - name: twitter
+      url: "https://twitter.com/tru3caff3ine"
 
 menu:
   main:
