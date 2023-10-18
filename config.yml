@@ -34,9 +34,7 @@ params:
       url: mailto:btuliaodev@gmail.com
     - name: goodreads
       url: "https://www.goodreads.com/user/show/115285117-bianca"
-    - name: twitter
-      url: "https://twitter.com/tru3caff3ine"
-
+      
 menu:
   main:
     - identifier: About

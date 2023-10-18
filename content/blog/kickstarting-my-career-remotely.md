@@ -3,6 +3,7 @@ title: "Kickstarting My Career Remotely"
 date: 2023-02-04T00:02:17-05:00
 summary: Things that helped me navigate through my first software engineering job right out of college.
 draft: false
+ShowBreadCrumbs: true
 ---
 In the middle of March 2020, I quickly moved out of my apartment in Philly to go back home in Chicago and finish the remainder of my senior year of college. One month after graduation I started my first fulltime software engineering job. The following is a reflection of what helped me with the transition from student to fulltime employee (and more specifically remote student to remote employee) in a manner I would've told myself at the time.
 <br />
