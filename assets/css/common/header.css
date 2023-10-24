@@ -70,7 +70,7 @@ body:not(.dark) #sun {
     border-bottom: 3px solid currentColor;
     border-image: 
         linear-gradient(
-            to right, #4385be 0%, #ce5d97 100%
+            to right, #da702c 0%, #ce5d97 100%
         ) 0 0 100% 0;
 }
 
