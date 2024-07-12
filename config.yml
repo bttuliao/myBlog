@@ -16,15 +16,15 @@ params:
   description: The blog of Bianca Tuliao, Software Engineer based in Philadelphia
   assets:
     disableFingerprinting: true
-  homeInfoParams:
-    Title: "Welcome 👋"
-    Content: "
-              My name is Bianca and I'm a software engineer from Philadelphia. Most recently, I was a software engineer at QVC and built applications within the supply chain domain.
-              I graduated from Temple University with a Bachelor of Science in [Information Science and Technology](https://www.temple.edu/academics/degree-programs/information-science-and-technology-major-st-ist-bs).
-             <br /> <br />I grew up in the 'burbs of Chicago and am a big fan of Lou Malnati's for deep dish pizza. I enjoy watching Esports and solving puzzles from [Puzzled Pint](http://puzzledpint.com/). When I'm not at my computer I'm most likely making coffee,
-             reading, or crocheting.
-            "
-  
+  profileMode:
+    enabled: true
+    title: "Bianca Tuliao"
+    subtitle: "Software engineer based in Philadelphia."
+    imageUrl: "/profilepic.png" # optional
+    imageTitle: "Bianca Tuliao" # optional
+    imageWidth: 130 # custom size
+    imageHeight: 130 # custom size
+
   socialIcons:
     - name: github
       url: "https://github.com/bttuliao"
@@ -37,15 +37,23 @@ params:
       
 menu:
   main:
-    - identifier: About
-      name: About
+    - identifier: Home
+      name: Home
       url: 
       weight: 10
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 20
     - identifier: Career
       name: Career
       url: /career/
-      weight: 20
+      weight: 30
+    - identifier: Projects
+      name: Projects
+      url: /projects/
+      weight: 40
     - identifier: Blog
       name: Blog
       url: /blog/
-      weight: 30
+      weight: 50

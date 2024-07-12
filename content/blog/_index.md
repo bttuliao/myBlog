@@ -1,7 +1,7 @@
 +++
-title = "Blog"
-summary = "Reflections on technology, things I'm learning, and more"
-description = "Blogging like it's 2005. Reflections on technology, things I'm learning, and more"
+title = "Blogging like it's 2005"
+summary = "Reflections on technology, traveling, and more"
+description = "Reflections on technology, traveling, and more"
 ShowBreadCrumbs = true
 ShowReadingTime = true
 +++

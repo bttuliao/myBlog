@@ -67,10 +67,10 @@ body:not(.dark) #sun {
 
 #menu .active {
     font-weight: 500;
-    border-bottom: 3px solid currentColor;
+    border-bottom: 2px solid currentColor;
     border-image: 
         linear-gradient(
-            to right, #4385be 0%, #ce5d97 100%
+            to right, #4385be 0%, #3aa99f 100%
         ) 0 0 100% 0;
 }
 
