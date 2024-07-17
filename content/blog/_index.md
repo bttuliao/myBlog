@@ -1,5 +1,5 @@
 +++
-title = "Blogging like it's 2005"
+title = "Blog"
 summary = "Rambles about technology, traveling, and more"
 description = "Rambles about technology, traveling, and more"
 ShowBreadCrumbs = true

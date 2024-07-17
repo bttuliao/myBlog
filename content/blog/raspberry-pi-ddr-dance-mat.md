@@ -17,6 +17,8 @@ Looking back, I should have considered the placement of the conductive thread fr
 <p>I used Premier's Anti-Pilling Everyday Worsted yarn for this project! I made the pattern using <a href="https://www.stitchfiddle.com/en" target="_blank">Stitch Fiddle</a>.</p>
 <img src="/ddr2.jpg" alt="troubleshooting arduino code" width="450" height="650" style="margin: 0 auto;"> 
 <br clear="all"/>
+<img src="/ddr4.jpg" alt="identifying sensors on circuit playground board" width="450" height="650" style="margin: 0 auto;"> 
+<br clear="all"/>
 <img src="/ddr3.jpg" alt="final configuration of hardware and crocheted dance pad" width="450" height="650" style="margin: 0 auto;">
 <br clear="all"/>
 <video controls width="500" height="650" style="display: block; margin: 0 auto;"><source src="/ddrvid.mp4" type="video/mp4"></video>

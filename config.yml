@@ -13,13 +13,13 @@ pluralizelisttitles: "false"
 params:
   ShowReadingTime: true
   dateFormat: "January 2, 2006"
-  description: The blog of Bianca Tuliao, Software Engineer based in Philadelphia
+  description: The blog of Bianca Tuliao, Software Engineer based in Chicago
   assets:
     disableFingerprinting: true
   profileMode:
     enabled: true
     title: "Bianca Tuliao"
-    subtitle: "Software engineer based in Philadelphia."
+    subtitle: "Software engineer based in Chicago. Previously from Philadelphia"
     imageUrl: "/profilepic.png" # optional
     imageTitle: "Bianca Tuliao" # optional
     imageWidth: 130 # custom size
